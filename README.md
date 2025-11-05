@@ -12,9 +12,15 @@ A modern, responsive web application for displaying privacy policies for differe
 
 ## Routes
 
+### Privacy Policies
 - `/user/privacy` - Privacy policy for end users
 - `/merchant/privacy` - Privacy policy for merchant partners
 - `/driver/privacy` - Privacy policy for delivery drivers
+
+### Support Pages
+- `/user/support` - Support center for end users
+- `/merchant/support` - Support center for merchant partners
+- `/driver/support` - Support center for delivery drivers
 
 ## Tech Stack
 
