@@ -119,7 +119,7 @@ vercel
 
 After deployment, your privacy policies will be accessible at:
 - `https://your-project.vercel.app/user/privacy` - User Privacy Policy
-- `https://your-project.vercel.app/merchant/privacy` - Merchant Privacy Policy  
+- `https://your-project.vercel.app/merchant/privacy` - Merchant Privacy Policy
 - `https://your-project.vercel.app/driver/privacy` - Driver Privacy Policy
 
 ### Custom Domain
